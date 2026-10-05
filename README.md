@@ -1,5 +1,7 @@
 # Verhaltensraum – was Novelty Search als „anders“ ansieht (Streamlit-Demo)
 
+**[→ Demo live ausprobieren](https://sebastianhanisch-behavior-space-demo.streamlit.app/)**
+
 ---
 
 Interaktive Demo zum **Verhaltensraum von Novelty Search**. **Drittes Stück der Konzepte-Linie „Novelty Search und Quality-Diversity“** im Portfolio von
